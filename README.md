@@ -1,6 +1,11 @@
-Hello, my name is Kiran, and I am a transitioning professional looking to start a career in data science. I have recently completed a comprehensive data science program from INSAID to learn the necessary skills and techniques for data analysis and machine learning.
-- Prior to this, I pursued a career in optometry and worked as an optometrist for several years. Although I enjoyed helping patients with their vision, I always had a strong interest in analyzing data and using it to drive decision-making.
-- I have hands-on experience with programming language such as Python and its Library. I have completed several data science projects that involved data cleaning, exploratory data analysis, Predictive modelling and data visualization.
-- My experience in optometry has given me valuable skills such as attention to detail, critical thinking, and the ability to communicate complex ideas in simple terms. I am now eager to apply these skills to the field of data science and contribute to solving real-world problems.
-- In my free time, I enjoy reading about new developments in data science and participating in online communities to enhance my knowledge and skills. I am a quick learner, a team player, and I believe in continuous learning and improvement.
+"I am Kiran Bansal, a dedicated data analysis enthusiast with a background in optometry, transitioning into a career as a data analyst. With a blend of analytical skills, problem-solving abilities, and a curious mindset, I excel at transforming complex data into actionable insights.
+
+- My optometry background has honed my attention to detail and ability to analyze intricate information. I have experience applying data analysis techniques to drive evidence-based decisions in patient care and operational efficiency.
+
+- I have completed comprehensive data analysis programs and gained proficiency in Excel, PowerBI, and SQL, along with beginner-level Python skills. I am skilled in data cleaning, exploratory data analysis, and visualization.
+
+- With strong problem-solving and critical thinking skills, I enjoy tackling challenging data problems and delivering innovative solutions. I thrive in collaborative team environments, leveraging effective communication to translate data insights into actionable recommendations.
+
+- As I transition into this exciting field, I am eager to contribute my expertise to drive data-driven decision-making and deliver impactful solutions as a data analyst. I am actively seeking opportunities where I can apply my analytical prowess and domain knowledge."
+  
 - Please feel free to reach out to me at bansalkiran49@gmail.com to discuss any opportunities or collaborations. Thank you for taking the time to read my profile!
